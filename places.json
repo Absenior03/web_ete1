@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Taj Mahal",
+      "description": "A historic monument in Agra, India.",
+      "location": "Agra",
+      "rating": 4.9,
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Great Wall of China",
+      "description": "Ancient wall in China, a famous landmark.",
+      "location": "China",
+      "rating": 4.8,
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "Eiffel Tower",
+      "description": "Iconic tower located in Paris, France.",
+      "location": "Paris",
+      "rating": 4.7,
+      "price": 120
+    },
+    {
+      "id": 4,
+      "name": "Grand Canyon",
+      "description": "A natural wonder located in Arizona, USA.",
+      "location": "USA",
+      "rating": 4.9,
+      "price": 80
+    },
+    {
+      "id": 5,
+      "name": "Colosseum",
+      "description": "Ancient amphitheater in Rome, Italy.",
+      "location": "Rome",
+      "rating": 4.6,
+      "price": 90
+    },
+    {
+      "id": 6,
+      "name": "Machu Picchu",
+      "description": "Historic Incan site in Peru.",
+      "location": "Peru",
+      "rating": 4.8,
+      "price": 130
+    }
+  ]
+  

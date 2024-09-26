@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist Places</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tourist Places</h1>
+        <div class="controls">
+            <label for="sort">Sort by:</label>
+            <select id="sort">
+                <option value="rating">Rating</option>
+                <option value="price">Price</option>
+            </select>
+
+            <label for="filter-location">Filter by Location:</label>
+            <input type="text" id="filter-location" placeholder="Enter location">
+            <button id="apply-filters">Apply Filters</button>
+        </div>
+    </header>
+
+    <section id="places-list"></section>
+    <div id="pagination"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
